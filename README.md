@@ -1,6 +1,6 @@
 # Pointify App
 
-Una aplicación móvil desarrollada con React Native y Expo adaotacion de la plantilla.
+Una aplicación móvil desarrollada con React Native y Expo adaptacion de la plantilla.
 
 ## 🚀 Inicio Rápido
 
